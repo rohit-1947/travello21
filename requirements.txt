@@ -35,7 +35,7 @@ django-tinymce==3.2.0
 django-tinymce-lite==0.0.2
 django-tinymce4-lite==1.8.0
 djangorestframework==3.12.4
-dm-tree==0.1.5
+# dm-tree==0.1.5
 dnspython==1.16.0
 docopt==0.6.2
 # fbmessenger==6.0.0
@@ -104,17 +104,17 @@ pykwalify==1.7.0
 pylint==2.4.4
 pymongo==3.10.1
 pyparsing==2.4.7
-PyQRCode==1.2.1
-pyreadline==2.1
-pyrsistent==0.17.3
+# PyQRCode==1.2.1
+# pyreadline==2.1
+# pyrsistent==0.17.3
 # pyTelegramBotAPI==3.7.6
 python-crfsuite==0.9.7
 python-dateutil==2.7.5
 python-engineio==3.13.2
 python-socketio==4.6.1
 pytz==2020.5
-PyYAML==3.13
-questionary==1.5.2
+# PyYAML==3.13
+# questionary==1.5.2
 # rasa==2.2.8
 # rasa-sdk==2.2.0
 razorpay==1.2.0
