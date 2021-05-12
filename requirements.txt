@@ -1,87 +1,87 @@
-absl-py==0.10.0
-aio-pika==6.7.1
-aiofiles==0.6.0
-aiohttp==3.6.3
-aiormq==3.3.1
-appdirs==1.4.4
-APScheduler==3.6.3
-asgiref==3.3.1
-astroid==2.3.3
-astunparse==1.6.3
-async-generator==1.10
-async-timeout==3.0.1
-attrs==20.2.0
-boto3==1.16.62
-botocore==1.19.62
-cachetools==4.2.1
-certifi==2020.12.5
-cffi==1.14.4
-chardet==3.0.4
-# ChatterBot==1.0.4
-# chatterbot-corpus==1.2.0
-click==7.1.2
-cloudpickle==1.4.1
-colorama==0.4.4
-colorclass==2.2.0
-coloredlogs==14.3
-colorhash==1.0.3
-cryptography==3.3.1
-cycler==0.10.0
-decorator==4.4.2
-distlib==0.3.1
-Django==3.1.5
-django-appconf==1.0.4
-django-tinymce==3.2.0
-django-tinymce-lite==0.0.2
-django-tinymce4-lite==1.8.0
-djangorestframework==3.12.4
-# dm-tree==0.1.5
-dnspython==1.16.0
-docopt==0.6.2
-# fbmessenger==6.0.0
-filelock==3.0.12
-Flask==1.1.2
-future==0.18.2
-gast==0.3.3
-google-auth==1.24.0
-google-auth-oauthlib==0.4.2
-google-pasta==0.2.0
-googletrans==3.0.0
-grpcio==1.35.0
-gunicorn==20.1.0
-h11==0.9.0
-h2==3.2.0
-h5py==2.10.0
-hpack==3.0.0
-hstspreload==2020.12.22
-httpcore==0.11.1
-httplib2==0.18.1
-httptools==0.1.1
-httpx==0.15.4
-humanfriendly==9.1
-hyperframe==5.2.0
-idna==2.10
-isort==4.3.21
-itsdangerous==1.1.0
+# absl-py==0.10.0
+# aio-pika==6.7.1
+# aiofiles==0.6.0
+# aiohttp==3.6.3
+# aiormq==3.3.1
+# appdirs==1.4.4
+# APScheduler==3.6.3
+# asgiref==3.3.1
+# astroid==2.3.3
+# astunparse==1.6.3
+# async-generator==1.10
+# async-timeout==3.0.1
+# attrs==20.2.0
+# boto3==1.16.62
+# botocore==1.19.62
+# cachetools==4.2.1
+# certifi==2020.12.5
+# cffi==1.14.4
+# chardet==3.0.4
+# # ChatterBot==1.0.4
+# # chatterbot-corpus==1.2.0
+# click==7.1.2
+# cloudpickle==1.4.1
+# colorama==0.4.4
+# colorclass==2.2.0
+# coloredlogs==14.3
+# colorhash==1.0.3
+# cryptography==3.3.1
+# cycler==0.10.0
+# decorator==4.4.2
+# distlib==0.3.1
+# Django==3.1.5
+# django-appconf==1.0.4
+# django-tinymce==3.2.0
+# django-tinymce-lite==0.0.2
+# django-tinymce4-lite==1.8.0
+# djangorestframework==3.12.4
+# # dm-tree==0.1.5
+# dnspython==1.16.0
+# docopt==0.6.2
+# # fbmessenger==6.0.0
+# filelock==3.0.12
+# Flask==1.1.2
+# future==0.18.2
+# gast==0.3.3
+# google-auth==1.24.0
+# google-auth-oauthlib==0.4.2
+# google-pasta==0.2.0
+# googletrans==3.0.0
+# grpcio==1.35.0
+# gunicorn==20.1.0
+# # h11==0.9.0
+# # h2==3.2.0
+# # h5py==2.10.0
+# # hpack==3.0.0
+# hstspreload==2020.12.22
+# httpcore==0.11.1
+# httplib2==0.18.1
+# httptools==0.1.1
+# httpx==0.15.4
+# humanfriendly==9.1
+# hyperframe==5.2.0
+# idna==2.10
+# isort==4.3.21
+# itsdangerous==1.1.0
 Jinja2==2.11.2
-jmespath==0.10.0
-joblib==0.15.1
-jsmin==2.2.2
-jsonpickle==1.4.2
-jsonschema==3.2.0
-kafka-python==2.0.2
-Keras-Preprocessing==1.1.2
+# jmespath==0.10.0
+# joblib==0.15.1
+# jsmin==2.2.2
+# jsonpickle==1.4.2
+# jsonschema==3.2.0
+# kafka-python==2.0.2
+# Keras-Preprocessing==1.1.2
 kiwisolver==1.3.1
 lazy-object-proxy==1.4.3
-Markdown==3.3.3
-MarkupSafe==1.1.1
-mathparse==0.1.2
+# Markdown==3.3.3
+# MarkupSafe==1.1.1
+# mathparse==0.1.2
 # matplotlib==3.3.4
-mattermostwrapper==2.2
-mccabe==0.6.1
-multidict==4.7.6
+# mattermostwrapper==2.2
+# mccabe==0.6.1
+# multidict==4.7.6
 mysqlclient==2.0.3
-networkx==2.5
+# networkx==2.5
 # nltk==3.5
 # numpy==1.18.5
 oauth2client==4.1.3
@@ -101,9 +101,9 @@ pycparser==2.20
 pydot==1.4.1
 PyJWT==2.0.1
 pykwalify==1.7.0
-pylint==2.4.4
-pymongo==3.10.1
-pyparsing==2.4.7
+# pylint==2.4.4
+# pymongo==3.10.1
+# pyparsing==2.4.7
 # PyQRCode==1.2.1
 # pyreadline==2.1
 # pyrsistent==0.17.3
