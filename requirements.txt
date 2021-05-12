@@ -115,8 +115,8 @@ python-socketio==4.6.1
 pytz==2020.5
 PyYAML==3.13
 questionary==1.5.2
-rasa==2.2.8
-rasa-sdk==2.2.0
+# rasa==2.2.8
+# rasa-sdk==2.2.0
 razorpay==1.2.0
 redis==3.5.3
 regex==2020.9.27
