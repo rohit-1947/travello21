@@ -1,1 +1,1 @@
-web:gunicorn rks.wsgi
+web: gunicorn rks.wsgi
