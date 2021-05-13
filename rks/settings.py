@@ -83,12 +83,13 @@ DATABASES = {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.mysql',
-         'NAME': 'rks',
-         'USER': 'root',
-         'PASSWORD': 'password',
+        'NAME': 'rks',
+        'USER': 'root',
+        'PASSWORD': 'password',
         #  'PORT': 3306,
         #  'HOST':'127.0.0.1',
-         'HOST': 'localhost'
+        # 'HOST': 'localhost'
+        'HOST' : 'https://travello21-django.herokuapp.com/'
     }
 }
 
