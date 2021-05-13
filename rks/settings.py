@@ -89,7 +89,7 @@ DATABASES = {
         #  'PORT': 3306,
         #  'HOST':'127.0.0.1',
         # 'HOST': 'localhost'
-        'HOST' : 'https://travello21-django.herokuapp.com/'
+        'HOST' : 'travello21-django.herokuapp.com'
     }
 }
 
