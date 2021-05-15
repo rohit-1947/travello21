@@ -27,3 +27,4 @@ urlpatterns = [
 #specifying the mediaURL
 #passing media_url and root_url
 urlpatterns = urlpatterns + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
